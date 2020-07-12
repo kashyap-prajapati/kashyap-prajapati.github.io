@@ -1,6 +1,7 @@
 # Site wide configuration
 
 title:  Kashyap Prajapati
+name: DEMO
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
